@@ -1,9 +1,11 @@
-
+#**Deliverable 2 Requirements**
 
 1. #**Overview of the Project**
+
 The purpose of refactoring this code was to analyze the performance of the given stocks over the years 2017 and 2018. Additionally, we also refactored the code that we previously used so that it may run in a more efficient manner.
 
 2. #**Results**
+
 The below links showed the Code times for each year before and after they were refactored.
 *2017 Original Code Time*
 (https://github.com/JoePizz/stock-analysis/blob/main/2017%20Original%20Code%20Time.png)
@@ -20,17 +22,20 @@ As you can see the code after it was refactored ran more than 4 times quicker th
 Using the tickerIndex variable to access the correct index across the four arrays that were created, we were able to refactor the original VBA Code to make it more efficient.
 
 #**2017 and 2018 Comparison**
+
 [Link to the Volume and Results for 2017 and 2018]
 2017: (https://github.com/JoePizz/stock-analysis/blob/main/Charts%202017.png)
 2018: (https://github.com/JoePizz/stock-analysis/blob/main/Charts%202018.png)
 In comparing the years 2017 and 2018 we can see that the stocks we analyzed have been analyzing as a whole performed worse than they did overall in the year 2017. There were only 2 stocks that were positive in both 2017 and 2018 
 ##**ENPH**
+
 2017 Return: 129.5%
 
 2018 Return: 81.9%
 
 
 ##**RUN**
+
 2017 Return: 5.5%
 2018 Return: 84%
 
